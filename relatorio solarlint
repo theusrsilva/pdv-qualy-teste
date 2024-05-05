@@ -1,0 +1,1001 @@
+Resource	Date	Description
+Ajuste.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Ajuste.java	null	Rename this field "data_processamento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Ajuste.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Ajuste.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Ajuste.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Ajuste.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Ajuste.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Ajuste.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Ajuste.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteController.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteController.java	null	Replace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping" [+1 location]
+AjusteController.java	null	Replace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping" [+1 location]
+AjusteController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+AjusteController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+AjusteController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+AjusteController.java	null	Remove this field injection and use constructor injection instead.
+AjusteController.java	null	Remove this field injection and use constructor injection instead.
+AjusteController.java	null	Remove this field injection and use constructor injection instead.
+AjusteController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+5 locations]
+AjusteController.java	null	Define a constant instead of duplicating this literal "codajuste" 3 times. [+3 locations]
+AjusteProduto.java	null	Rename this field "estoque_atual" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this field "qtd_alteracao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this field "qtd_nova" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProduto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProdutoRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProdutoRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProdutoRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProdutoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProdutoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProdutoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteProdutoService.java	null	Call "Optional#isPresent()" before accessing the value.
+AjusteProdutoService.java	null	Call "Optional#isPresent()" before accessing the value.
+AjusteProdutoService.java	null	Call "Optional#isPresent()" before accessing the value.
+AjusteProdutoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteProdutoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteProdutoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteProdutoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteProdutoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteProdutoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteProdutoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteProdutoService.java	null	Remove this field injection and use constructor injection instead.
+AjusteProdutoService.java	null	Remove this field injection and use constructor injection instead.
+AjusteProdutoService.java	null	Remove this field injection and use constructor injection instead.
+AjusteProdutoService.java	null	Replace this use of System.out by a logger.
+AjusteProdutoService.java	null	Replace this use of System.out by a logger.
+AjusteService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+AjusteService.java	null	Call "Optional#isPresent()" before accessing the value.
+AjusteService.java	null	Call "ajuste.isPresent()" before accessing the value.
+AjusteService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteService.java	null	Define and throw a dedicated exception instead of using a generic one.
+AjusteService.java	null	Remove this field injection and use constructor injection instead.
+AjusteService.java	null	Remove this field injection and use constructor injection instead.
+AjusteService.java	null	Replace this use of System.out by a logger.
+AssinaXML.java	null	Immediately return this expression instead of assigning it to the temporary variable "document".
+AssinaXML.java	null	Remove this unnecessary cast to "String".
+AssinaXML.java	null	Replace the type specification in this constructor call with the diamond operator ("<>").
+AssinaXML.java	null	Replace the type specification in this constructor call with the diamond operator ("<>").
+AssinaXML.java	null	A "NullPointerException" could be thrown; "pkEntry" is nullable here. [+2 locations]
+AssinaXML.java	null	Define and throw a dedicated exception instead of using a generic one.
+AssinaXML.java	null	Define and throw a dedicated exception instead of using a generic one.
+AssinaXML.java	null	Define and throw a dedicated exception instead of using a generic one.
+AssinaXML.java	null	Replace this use of System.out by a logger.
+AssinaXML.java	null	Replace this use of System.out by a logger.
+AssinaXML.java	null	Replace this use of System.out by a logger.
+AssinaXML.java	null	Replace this use of System.out by a logger.
+AssinaXML.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+AssinaXML.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+AssinaXML.java	null	Disable access to external entities in XML parsing.
+AssinaXML.java	null	Disable access to external entities in XML parsing.
+AssinaXML.java	null	Use try-with-resources or close this "FileInputStream" in a "finally" clause.
+BancoController.java	null	Remove this field injection and use constructor injection instead.
+BancoFilter.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+BancoFilter.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+BancoFilter.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+BancoFilter.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CFOP.java	null	Rename field "cfop"
+Caixa.java	null	Rename this field "Descricao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this field "data_fechamento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this field "valor_abertura" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this field "valor_entrada" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this field "valor_fechamento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this field "valor_saida" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this field "valor_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Caixa.java	null	Constructor has 8 parameters, which is greater than 7 authorized.
+CaixaController.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaController.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+CaixaController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+CaixaController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+CaixaController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+CaixaController.java	null	Call "caixa.isPresent()" before accessing the value.
+CaixaController.java	null	Call "caixa.isPresent()" before accessing the value.
+CaixaController.java	null	Remove this field injection and use constructor injection instead.
+CaixaController.java	null	Remove this field injection and use constructor injection instead.
+CaixaController.java	null	Remove this field injection and use constructor injection instead.
+CaixaController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+4 locations]
+CaixaController.java	null	Replace this use of System.out by a logger.
+CaixaController.java	null	Define a constant instead of duplicating this literal "caixa" 4 times. [+4 locations]
+CaixaController.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+CaixaFilter.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaFilter.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaFilter.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaFilter.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaLancamento.java	null	Do not forget to remove this deprecated code someday.
+CaixaLancamento.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaLancamento.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaLancamento.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaLancamento.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaLancamento.java	null	Add the missing @deprecated Javadoc tag.
+CaixaLancamentoService.java	null	Remove the "dataHoraAtual" field and declare it as a local variable in the relevant methods.
+CaixaLancamentoService.java	null	Call "vlTotalCaixa.isPresent()" before accessing the value.
+CaixaLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CaixaLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CaixaLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CaixaLancamentoService.java	null	Remove this field injection and use constructor injection instead.
+CaixaLancamentoService.java	null	Remove this field injection and use constructor injection instead.
+CaixaLancamentoService.java	null	Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.
+CaixaLancamentoService.java	null	Refactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed. [+13 locations]
+CaixaRelatorioController.java	null	Remove the "relatorio" field and declare it as a local variable in the relevant methods.
+CaixaRelatorioController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+1 location]
+CaixaRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CaixaService.java	null	Immediately return this expression instead of assigning it to the temporary variable "caixaOptional".
+CaixaService.java	null	Remove the "usuario" field and declare it as a local variable in the relevant methods.
+CaixaService.java	null	Call "Optional#isPresent()" before accessing the value.
+CaixaService.java	null	Call "caixaAtual.isPresent()" before accessing the value.
+CaixaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CaixaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CaixaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CaixaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CaixaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CaixaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CaixaService.java	null	Extract this nested ternary operation into an independent statement.
+CaixaService.java	null	Merge this if statement with the enclosing one. [+1 location]
+CaixaService.java	null	Merge this if statement with the enclosing one. [+1 location]
+CaixaService.java	null	Remove this field injection and use constructor injection instead.
+CaixaService.java	null	Remove this field injection and use constructor injection instead.
+CaixaService.java	null	Remove this field injection and use constructor injection instead.
+CaixaService.java	null	Rename "usuario" which hides the field declared at line 30.
+CaixaService.java	null	Replace this use of System.out by a logger.
+CaixaService.java	null	Replace this use of System.out by a logger.
+CaixaService.java	null	Refactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed. [+17 locations]
+CartaoFilter.java	null	Rename this field "data_recebimento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoFilter.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoFilter.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoFilter.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Do not forget to remove this deprecated code someday.
+CartaoLancamento.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this field "data_recebimento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this field "maquina_cartao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamento.java	null	Add the missing @deprecated Javadoc tag.
+CartaoLancamento.java	null	Constructor has 12 parameters, which is greater than 7 authorized.
+CartaoLancamentoController.java	null	Replace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping" [+1 location]
+CartaoLancamentoController.java	null	Replace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping" [+1 location]
+CartaoLancamentoController.java	null	Remove this field injection and use constructor injection instead.
+CartaoLancamentoController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+2 locations]
+CartaoLancamentoRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamentoService.java	null	"getData_recebimento" returns a string, there's no need to call "toString()".
+CartaoLancamentoService.java	null	Remove the "dataAtual" field and declare it as a local variable in the relevant methods.
+CartaoLancamentoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamentoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamentoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamentoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamentoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamentoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamentoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamentoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CartaoLancamentoService.java	null	Call "titulo.isPresent()" before accessing the value.
+CartaoLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CartaoLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CartaoLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CartaoLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CartaoLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CartaoLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CartaoLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CartaoLancamentoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+CartaoLancamentoService.java	null	Remove this field injection and use constructor injection instead.
+CartaoLancamentoService.java	null	Remove this field injection and use constructor injection instead.
+CartaoLancamentoService.java	null	Remove this field injection and use constructor injection instead.
+CartaoLancamentoService.java	null	Remove this useless assignment to local variable "taxa_ante".
+CartaoLancamentoService.java	null	Remove this useless assignment to local variable "vl_liq_ant".
+CartaoLancamentoService.java	null	Remove this useless assignment to local variable "vl_liq_parcela".
+CartaoLancamentoService.java	null	Remove this useless assignment to local variable "vl_taxa".
+CartaoLancamentoService.java	null	Remove this useless assignment to local variable "vl_taxa_ante".
+CartaoLancamentoService.java	null	Replace this use of System.out by a logger.
+Categoria.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Categoria.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Categoria.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Categoria.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Categoria.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CategoriaController.java	null	Remove this field injection and use constructor injection instead.
+CategoriaController.java	null	Replace this use of System.out by a logger.
+CategoriaController.java	null	Replace this persistent entity with a simple POJO or DTO object.
+CategoriaService.java	null	Remove this field injection and use constructor injection instead.
+CfopService.java	null	Remove this field injection and use constructor injection instead.
+Cidade.java	null	Rename this field "codigo_municipio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Cidade.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Cidade.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Cidade.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Cidade.java	null	Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.
+CidadeService.java	null	Remove this field injection and use constructor injection instead.
+ConversorXmlNfe.java	null	Directly append the argument of String.valueOf().
+ConversorXmlNfe.java	null	Make nfService a static final constant or non-public and provide accessors if needed.
+ConversorXmlNfe.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ConversorXmlNfe.java	null	Use "java.util.Random.nextInt()" instead.
+ConversorXmlNfe.java	null	This block of commented-out lines of code should be removed.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+ConversorXmlNfe.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+Cst.java	null	Rename field "cst"
+CstCsosn.java	null	Rename this field "cst_csosn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CstCsosn.java	null	Rename this field "simples_nacional" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CstCsosn.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CstCsosn.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CstCsosn.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CstCsosn.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CstCsosn.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CstCsosn.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+CstCsosnService.java	null	Remove this field injection and use constructor injection instead.
+CstIpiService.java	null	Remove this field injection and use constructor injection instead.
+CstService.java	null	Remove this field injection and use constructor injection instead.
+DataAtual.java	null	Immediately return this expression instead of assigning it to the temporary variable "dataAtual".
+DataAtual.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+DataAtual.java	null	Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.
+Empresa.java	null	Rename this field "nome_fantasia" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Empresa.java	null	Rename this field "regime_tributario" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Empresa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Empresa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Empresa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Empresa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Empresa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Empresa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Empresa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+EmpresaController.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+EmpresaController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+EmpresaController.java	null	A "NullPointerException" could be thrown; "parseInt" is nullable here.
+EmpresaController.java	null	Remove this field injection and use constructor injection instead.
+EmpresaController.java	null	Remove this field injection and use constructor injection instead.
+EmpresaController.java	null	Remove this field injection and use constructor injection instead.
+EmpresaController.java	null	Remove this field injection and use constructor injection instead.
+EmpresaParametro.java	null	Rename this field "serie_nfe" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+EmpresaParametro.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+EmpresaParametro.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+EmpresaParametro.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+EmpresaParametrosService.java	null	Remove this field injection and use constructor injection instead.
+EmpresaRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+EmpresaService.java	null	Immediately return this expression instead of assigning it to the temporary variable "empresaOptiona".
+EmpresaService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+EmpresaService.java	null	Call "cidade.isPresent()" before accessing the value.
+EmpresaService.java	null	Call "tributario.isPresent()" before accessing the value.
+EmpresaService.java	null	Method has 16 parameters, which is greater than 7 authorized.
+EmpresaService.java	null	Remove this field injection and use constructor injection instead.
+EmpresaService.java	null	Remove this field injection and use constructor injection instead.
+EmpresaService.java	null	Remove this field injection and use constructor injection instead.
+EmpresaService.java	null	Remove this field injection and use constructor injection instead.
+EmpresaService.java	null	Remove this field injection and use constructor injection instead.
+EmpresaService.java	null	Replace this use of System.out by a logger.
+EmpresaService.java	null	Replace this use of System.out by a logger.
+EmpresaService.java	null	Replace this use of System.out by a logger.
+EmpresaService.java	null	Replace this use of System.out by a logger.
+EmpresaService.java	null	Replace this use of System.out by a logger.
+EmpresaService.java	null	Replace this use of System.out by a logger.
+EmpresaService.java	null	Replace this use of System.out by a logger.
+EmpresaService.java	null	Define a constant instead of duplicating this literal "Erro ao salvar dados da empresa, chame o suporte" 6 times. [+6 locations]
+Endereco.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Endereco.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Endereco.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Endereco.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Endereco.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+EnderecoService.java	null	Remove this field injection and use constructor injection instead.
+Estado.java	null	Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.
+EstadoService.java	null	Remove this field injection and use constructor injection instead.
+Fornecedor.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this field "inscricao_estadual" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this field "nome_fantasia" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Fornecedor.java	null	Constructor has 9 parameters, which is greater than 7 authorized.
+FornecedorController.java	null	Remove this field injection and use constructor injection instead.
+FornecedorController.java	null	Remove this field injection and use constructor injection instead.
+FornecedorController.java	null	Remove this field injection and use constructor injection instead.
+FornecedorController.java	null	Remove this field injection and use constructor injection instead.
+FornecedorController.java	null	Replace this use of System.out by a logger.
+FornecedorController.java	null	Replace this use of System.out by a logger.
+FornecedorController.java	null	Replace this use of System.out by a logger.
+FornecedorController.java	null	Define a constant instead of duplicating this literal "redirect:/fornecedor/form" 4 times. [+4 locations]
+FornecedorController.java	null	Replace this persistent entity with a simple POJO or DTO object.
+FornecedorController.java	null	Replace this persistent entity with a simple POJO or DTO object.
+FornecedorController.java	null	Replace this persistent entity with a simple POJO or DTO object.
+FornecedorService.java	null	Remove this field injection and use constructor injection instead.
+FreteTipo.java	null	Make descricao a static final constant or non-public and provide accessors if needed.
+FreteTipo.java	null	Make tipo a static final constant or non-public and provide accessors if needed.
+FreteTipoService.java	null	Remove this field injection and use constructor injection instead.
+GeraXmlNfe.java	null	Remove this field injection and use constructor injection instead.
+GerarRelatorio.java	null	"contexto" is already a string, there's no need to call "toString()" on it.
+GerarRelatorio.java	null	Remove the "conexao" field and declare it as a local variable in the relevant methods.
+GerarRelatorio.java	null	Replace this use of System.out by a logger.
+GerarRelatorio.java	null	Replace this use of System.out by a logger.
+GerarRelatorio.java	null	Replace this use of System.out by a logger.
+Grupo.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Grupo.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Grupo.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Grupo.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Grupo.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+GrupoController.java	null	Remove this field injection and use constructor injection instead.
+GrupoController.java	null	Replace this use of System.out by a logger.
+GrupoController.java	null	Replace this persistent entity with a simple POJO or DTO object.
+GrupoService.java	null	Remove this field injection and use constructor injection instead.
+GrupoUsuarioController.java	null	Replace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping" [+1 location]
+GrupoUsuarioController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+GrupoUsuarioController.java	null	Remove this field injection and use constructor injection instead.
+GrupoUsuarioController.java	null	Remove this field injection and use constructor injection instead.
+GrupoUsuarioController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+2 locations]
+GrupoUsuarioController.java	null	This block of commented-out lines of code should be removed.
+GrupoUsuarioController.java	null	Replace this persistent entity with a simple POJO or DTO object.
+GrupoUsuarioService.java	null	Define and throw a dedicated exception instead of using a generic one.
+GrupoUsuarioService.java	null	Define and throw a dedicated exception instead of using a generic one.
+GrupoUsuarioService.java	null	Define and throw a dedicated exception instead of using a generic one.
+GrupoUsuarioService.java	null	Remove this field injection and use constructor injection instead.
+GrupoUsuarioService.java	null	Replace this use of System.out by a logger.
+GrupoUsuarioService.java	null	Replace this use of System.out by a logger.
+GrupoUsuarioService.java	null	Replace this use of System.out by a logger.
+HomeController.java	null	Remove this field injection and use constructor injection instead.
+HomeController.java	null	Remove this field injection and use constructor injection instead.
+HomeController.java	null	Remove this field injection and use constructor injection instead.
+HomeController.java	null	Remove this field injection and use constructor injection instead.
+ImagemProduto.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ImagemProduto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ImagemProduto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ImagemProduto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ImagemProduto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ImagemProdutoController.java	null	Remove this field injection and use constructor injection instead.
+ImagemProdutoController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+1 location]
+ImagemProdutoService.java	null	"contexto" is already a string, there's no need to call "toString()" on it.
+ImagemProdutoService.java	null	Remove the "contexto" field and declare it as a local variable in the relevant methods.
+ImagemProdutoService.java	null	Remove the "imagemProduto" field and declare it as a local variable in the relevant methods.
+ImagemProdutoService.java	null	Remove the "uri" field and declare it as a local variable in the relevant methods.
+ImagemProdutoService.java	null	Rename this field "DIRETORIO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ImagemProdutoService.java	null	A "NullPointerException" could be thrown; "getOriginalFilename()" can return null. [+2 locations]
+ImagemProdutoService.java	null	Remove this field injection and use constructor injection instead.
+ImagemProdutoService.java	null	Remove this field injection and use constructor injection instead.
+ImagemProdutoService.java	null	Save and re-use this "Random".
+ImagemProdutoService.java	null	Use try-with-resources or close this "FileOutputStream" in a "finally" clause.
+LoginUserDatailsService.java	null	Remove this field injection and use constructor injection instead.
+LoginUserDatailsService.java	null	Remove this field injection and use constructor injection instead.
+LoginUserDatailsService.java	null	Remove this field injection and use constructor injection instead.
+LoginUserDatailsService.java	null	Remove usage of generic wildcard type.
+LoginUserDatailsService.java	null	Remove usage of generic wildcard type.
+MaquinaCartao.java	null	Rename this field "dias_credito" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this field "dias_debito" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this field "taxa_antecipacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this field "taxa_credito" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this field "taxa_debito" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartao.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+MaquinaCartaoController.java	null	Replace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping" [+1 location]
+MaquinaCartaoController.java	null	Replace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping" [+1 location]
+MaquinaCartaoController.java	null	Remove this field injection and use constructor injection instead.
+MaquinaCartaoController.java	null	Remove this field injection and use constructor injection instead.
+MaquinaCartaoController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+2 locations]
+MaquinaCartaoController.java	null	Replace this persistent entity with a simple POJO or DTO object.
+MaquinaCartaoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+MaquinaCartaoService.java	null	Remove this field injection and use constructor injection instead.
+MaquinaCartaoService.java	null	Replace this use of System.out by a logger.
+ModBcIcms.java	null	Rename this field "sub_tributaria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ModBcIcms.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ModBcIcms.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ModBcIcms.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ModBcIcmsService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscal.java	null	Rename this field "chave_acesso" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this field "data_emissao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this field "data_saida" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this field "hora_saida" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this field "natureza_operacao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this field "tipo_ambiente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this field "tipo_emissao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this field "tipo_impressao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscal.java	null	Constructor has 14 parameters, which is greater than 7 authorized.
+NotaFiscalController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+NotaFiscalController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+NotaFiscalController.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalController.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalController.java	null	Remove this call to "equals"; comparisons between unrelated types always return false.
+NotaFiscalController.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalController.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalController.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalController.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalController.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+2 locations]
+NotaFiscalController.java	null	Replace this use of System.out by a logger.
+NotaFiscalFinalidadeServer.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalItem.java	null	Rename this field "qtd_tribu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this field "unidade_tribu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this field "v_uniTribu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItem.java	null	Constructor has 9 parameters, which is greater than 7 authorized.
+NotaFiscalItemController.java	null	Replace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping" [+1 location]
+NotaFiscalItemController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+NotaFiscalItemController.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalItemController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+2 locations]
+NotaFiscalItemImposto.java	null	Rename this field "cst_cofins" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "cst_ipi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "cst_pis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "mod_bc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "p_cofins" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "p_icms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "p_ipi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "p_pis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "v_bc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "v_cofins" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "v_icms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "v_ipi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "v_pis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "vbc_cofins" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "vbc_ipi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this field "vbc_pis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImposto.java	null	Constructor has 18 parameters, which is greater than 7 authorized.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalItemImpostoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemImpostoService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemImpostoService.java	null	Method has 19 parameters, which is greater than 7 authorized.
+NotaFiscalItemImpostoService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalItemImpostoService.java	null	Replace this use of System.out by a logger.
+NotaFiscalItemImpostoService.java	null	Replace this use of System.out by a logger.
+NotaFiscalItemService.java	null	"getCst_csosn" returns a string, there's no need to call "toString()".
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "notaFiscal.isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Call "notaFiscal.isPresent()" before accessing the value.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalItemService.java	null	Merge this if statement with the enclosing one. [+1 location]
+NotaFiscalItemService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalItemService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalItemService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalItemService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalItemService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalItemService.java	null	Replace this use of System.out by a logger.
+NotaFiscalItemService.java	null	Replace this use of System.out by a logger.
+NotaFiscalItemService.java	null	Refactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed. [+14 locations]
+NotaFiscalRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalRepository.java	null	Method has 12 parameters, which is greater than 7 authorized.
+NotaFiscalService.java	null	Do something with the "boolean" value returned by "delete".
+NotaFiscalService.java	null	Remove the "dataAtual" field and declare it as a local variable in the relevant methods.
+NotaFiscalService.java	null	Remove this hard-coded path-delimiter.
+NotaFiscalService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalService.java	null	Call "Optional#isPresent()" before accessing the value.
+NotaFiscalService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalService.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalService.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalService.java	null	Replace this use of System.out by a logger.
+NotaFiscalService.java	null	Replace this use of System.out by a logger.
+NotaFiscalService.java	null	Replace this use of System.out by a logger.
+NotaFiscalService.java	null	Replace this use of System.out by a logger.
+NotaFiscalService.java	null	Replace this use of System.out by a logger.
+NotaFiscalService.java	null	Replace this use of System.out by a logger.
+NotaFiscalService.java	null	Use "java.nio.file.Files#delete" here for better messages on error conditions.
+NotaFiscalTotais.java	null	Do not forget to remove this deprecated code someday.
+NotaFiscalTotais.java	null	Rename this field "v_bc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_cofins" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_frete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_icms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_ii" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_ipi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_nf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_outros" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_pis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_prod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_seg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this field "v_st" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+NotaFiscalTotais.java	null	Add the missing @deprecated Javadoc tag.
+NotaFiscalTotais.java	null	Constructor has 13 parameters, which is greater than 7 authorized.
+NotaFiscalTotaisRepository.java	null	Remove the non-escaped \u0009 character from this literal.
+NotaFiscalTotaisServer.java	null	Define and throw a dedicated exception instead of using a generic one.
+NotaFiscalTotaisServer.java	null	Remove this field injection and use constructor injection instead.
+NotaFiscalTotaisServer.java	null	Replace this use of System.out by a logger.
+NotaFiscalTotaisServer.java	null	Replace this use of System.out by a logger.
+NotaFiscalTotaisServer.java	null	Replace this use of System.out by a logger.
+PagamentoTipo.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagamentoTipo.java	null	Rename this field "qtd_parcelas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagamentoTipo.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagamentoTipo.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagamentoTipo.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagamentoTipo.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagamentoTipo.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagamentoTipo.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagamentoTipo.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagamentoTipoController.java	null	Remove this field injection and use constructor injection instead.
+PagamentoTipoController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+1 location]
+PagamentoTipoController.java	null	Replace this persistent entity with a simple POJO or DTO object.
+PagamentoTipoService.java	null	Immediately return this expression instead of assigning it to the temporary variable "qtd".
+PagamentoTipoService.java	null	Remove this field injection and use constructor injection instead.
+PagamentoTipoService.java	null	Replace this call to "replaceAll()" by a call to the "replace()" method.
+Pagar.java	null	Do not forget to remove this deprecated code someday.
+Pagar.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Rename this field "valor_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pagar.java	null	Add the missing @deprecated Javadoc tag.
+PagarController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+PagarController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+PagarController.java	null	Call "pagarTipo.isPresent()" before accessing the value.
+PagarController.java	null	Remove this field injection and use constructor injection instead.
+PagarController.java	null	Remove this field injection and use constructor injection instead.
+PagarController.java	null	Remove this field injection and use constructor injection instead.
+PagarController.java	null	Remove this field injection and use constructor injection instead.
+PagarController.java	null	Remove this field injection and use constructor injection instead.
+PagarController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+2 locations]
+PagarController.java	null	Add a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.
+PagarParcela.java	null	Do not forget to remove this deprecated code someday.
+PagarParcela.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this field "data_pagamento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this field "data_vencimento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this field "valor_acrescimo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this field "valor_desconto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this field "valor_pago" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this field "valor_restante" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this field "valor_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarParcela.java	null	Add the missing @deprecated Javadoc tag.
+PagarParcelaRespository.java	null	Method has 9 parameters, which is greater than 7 authorized.
+PagarParcelaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+PagarParcelaService.java	null	Remove this field injection and use constructor injection instead.
+PagarService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarService.java	null	Call "OptionaFornecedor.isPresent()" before accessing the value.
+PagarService.java	null	Call "Optional#isPresent()" before accessing the value.
+PagarService.java	null	Call "Optional#isPresent()" before accessing the value.
+PagarService.java	null	Call "Optional#isPresent()" before accessing the value.
+PagarService.java	null	Call "Optional#isPresent()" before accessing the value.
+PagarService.java	null	Call "Optional#isPresent()" before accessing the value.
+PagarService.java	null	Call "Optional#isPresent()" before accessing the value.
+PagarService.java	null	Call "caixa.isPresent()" before accessing the value.
+PagarService.java	null	Call "parcela.isPresent()" before accessing the value.
+PagarService.java	null	Define and throw a dedicated exception instead of using a generic one.
+PagarService.java	null	Define and throw a dedicated exception instead of using a generic one.
+PagarService.java	null	Define and throw a dedicated exception instead of using a generic one.
+PagarService.java	null	Define and throw a dedicated exception instead of using a generic one.
+PagarService.java	null	Define and throw a dedicated exception instead of using a generic one.
+PagarService.java	null	Define and throw a dedicated exception instead of using a generic one.
+PagarService.java	null	Remove this field injection and use constructor injection instead.
+PagarService.java	null	Remove this field injection and use constructor injection instead.
+PagarService.java	null	Remove this field injection and use constructor injection instead.
+PagarService.java	null	Remove this field injection and use constructor injection instead.
+PagarService.java	null	Remove this field injection and use constructor injection instead.
+PagarService.java	null	Remove this field injection and use constructor injection instead.
+PagarTipo.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarTipo.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarTipo.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarTipo.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarTipo.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PagarTipoService.java	null	Remove this field injection and use constructor injection instead.
+Pais.java	null	Rename this field "pais_codigo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pais.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pais.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Do not forget to remove this deprecated code someday.
+Parcela.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this field "data_pagamento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this field "data_vencimento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this field "valor_acrescimo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this field "valor_desconto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this field "valor_recebido" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this field "valor_restante" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this field "valor_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Parcela.java	null	Add the missing @deprecated Javadoc tag.
+Parcela.java	null	Constructor has 10 parameters, which is greater than 7 authorized.
+ParcelaRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ParcelaRepository.java	null	Method has 10 parameters, which is greater than 7 authorized.
+ParcelaService.java	null	Call "Optional#isPresent()" before accessing the value.
+ParcelaService.java	null	Call "Optional#isPresent()" before accessing the value.
+ParcelaService.java	null	Call "Optional#isPresent()" before accessing the value.
+ParcelaService.java	null	Call "Optional#isPresent()" before accessing the value.
+ParcelaService.java	null	Call "Optional#isPresent()" before accessing the value.
+ParcelaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+ParcelaService.java	null	Method has 10 parameters, which is greater than 7 authorized.
+ParcelaService.java	null	Remove this field injection and use constructor injection instead.
+PdvApplicationTests.java	null	Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.
+PermissoesService.java	null	Remove this field injection and use constructor injection instead.
+Pessoa.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Rename this field "data_nascimento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Pessoa.java	null	Constructor has 8 parameters, which is greater than 7 authorized.
+PessoaController.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PessoaController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+PessoaController.java	null	Replace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping" [+1 location]
+PessoaController.java	null	Remove this field injection and use constructor injection instead.
+PessoaController.java	null	Remove this field injection and use constructor injection instead.
+PessoaController.java	null	Remove this field injection and use constructor injection instead.
+PessoaController.java	null	Remove this field injection and use constructor injection instead.
+PessoaController.java	null	Replace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations. [+2 locations]
+PessoaService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+PessoaService.java	null	Call "cidade.isPresent()" before accessing the value.
+PessoaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+PessoaService.java	null	Define and throw a dedicated exception instead of using a generic one.
+PessoaService.java	null	Method has 17 parameters, which is greater than 7 authorized.
+PessoaService.java	null	Remove this field injection and use constructor injection instead.
+PessoaService.java	null	Remove this field injection and use constructor injection instead.
+PessoaService.java	null	Remove this field injection and use constructor injection instead.
+PessoaService.java	null	Remove this field injection and use constructor injection instead.
+Produto.java	null	Rename this field "controla_estoque" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this field "data_validade" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this field "valor_balanca" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this field "valor_custo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this field "valor_venda" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+Produto.java	null	Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.
+ProdutoController.java	null	Replace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping" [+1 location]
+ProdutoController.java	null	Remove this field injection and use constructor injection instead.
+ProdutoController.java	null	Remove this field injection and use constructor injection instead.
+ProdutoController.java	null	Remove this field injection and use constructor injection instead.
+ProdutoController.java	null	Remove this field injection and use constructor injection instead.
+ProdutoController.java	null	Remove this field injection and use constructor injection instead.
+ProdutoController.java	null	Remove this field injection and use constructor injection instead.
+ProdutoController.java	null	Remove this field injection and use constructor injection instead.
+ProdutoController.java	null	Replace this use of System.out by a logger.
+ProdutoController.java	null	Replace this persistent entity with a simple POJO or DTO object.
+ProdutoController.java	null	Add a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.
+ProdutoRepository.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+ProdutoRepository.java	null	Method has 18 parameters, which is greater than 7 authorized.
+ProdutoRepository.java	null	Method has 18 parameters, which is greater than 7 authorized.
+ProdutoService.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
