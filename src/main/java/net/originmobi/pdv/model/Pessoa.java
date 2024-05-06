@@ -16,124 +16,180 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
 import org.springframework.format.annotation.DateTimeFormat;
-
+// PROBLEMAS RESOLVIDOS,OMENA: 
+//Pessoa.java	null	Rename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Rename this field "data_nascimento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Rename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.
+//Pessoa.java	null	Constructor has 8 parameters, which is greater than 7 authorized.
 @Entity
 public class Pessoa implements Serializable {
 
-	private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 1L;
 
-	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private Long codigo;
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long codigo;
 
-	@NotBlank(message = "nome não pode ser vazio")
-	@Size(min = 5, max = 250)
-	private String nome;
+    @NotBlank(message = "nome não pode ser vazio")
+    @Size(min = 5, max = 250)
+    private String nome;
 
-	@Size(max = 250)
-	private String apelido;
+    @Size(max = 250)
+    private String apelido;
 
-	@Column(unique = true)
-	private String cpfcnpj;
+    @Column(unique = true)
+    private String cpfcnpj;
 
-	private String observacao;
+    private String observacao;
 
-	@DateTimeFormat(pattern = "dd/MM/yyyy")
-	private Date data_nascimento;
-	private Date data_cadastro;
+    @DateTimeFormat(pattern = "dd/MM/yyyy")
+    private Date dataNascimento;
+    private Date dataCadastro;
 
-	@ManyToOne
-	@JoinColumn(name = "endereco_codigo")
-	private Endereco endereco;
+    @ManyToOne
+    @JoinColumn(name = "endereco_codigo")
+    private Endereco endereco;
 
-	@OneToMany
-	private List<Telefone> telefone;
+    @OneToMany
+    private List<Telefone> telefone;
 
-	public Pessoa() {
-	}
+    private Pessoa(Builder builder) {
+        this.nome = builder.nome;
+        this.apelido = builder.apelido;
+        this.cpfcnpj = builder.cpfcnpj;
+        this.observacao = builder.observacao;
+        this.dataCadastro = builder.dataCadastro;
+        this.dataNascimento = builder.dataNascimento;
+        this.endereco = builder.endereco;
+        this.telefone = builder.telefone;
+    }
 
-	public Pessoa(String nome, String apelido, String cpfcnpj, String observacao, Date data_cadastro,
-			Date data_nascimento, Endereco endereco, List<Telefone> telefone) {
-		this.nome = nome;
-		this.apelido = apelido;
-		this.cpfcnpj = cpfcnpj;
-		this.observacao = observacao;
-		this.data_cadastro = data_cadastro;
-		this.data_nascimento = data_nascimento;
-		this.endereco = endereco;
-		this.telefone = telefone;
-	}
+    public static class Builder {
+        private String nome;
+        private String apelido;
+        private String cpfcnpj;
+        private String observacao;
+        private Date dataNascimento;
+        private Date dataCadastro;
+        private Endereco endereco;
+        private List<Telefone> telefone;
 
-	public Long getCodigo() {
-		return codigo;
-	}
+        public Builder(String nome, String cpfcnpj) {
+            this.nome = nome;
+            this.cpfcnpj = cpfcnpj;
+        }
 
-	public void setCodigo(Long codigo) {
-		this.codigo = codigo;
-	}
+        public Builder apelido(String apelido) {
+            this.apelido = apelido;
+            return this;
+        }
 
-	public String getNome() {
-		return nome;
-	}
+        public Builder observacao(String observacao) {
+            this.observacao = observacao;
+            return this;
+        }
 
-	public void setNome(String nome) {
-		this.nome = nome;
-	}
+        public Builder dataNascimento(Date dataNascimento) {
+            this.dataNascimento = dataNascimento;
+            return this;
+        }
 
-	public String getApelido() {
-		return apelido;
-	}
+        public Builder dataCadastro(Date dataCadastro) {
+            this.dataCadastro = dataCadastro;
+            return this;
+        }
 
-	public void setApelido(String apelido) {
-		this.apelido = apelido;
-	}
+        public Builder endereco(Endereco endereco) {
+            this.endereco = endereco;
+            return this;
+        }
 
-	public String getCpfcnpj() {
-		return cpfcnpj;
-	}
+        public Builder telefone(List<Telefone> telefone) {
+            this.telefone = telefone;
+            return this;
+        }
 
-	public void setCpfcnpj(String cpfcnpj) {
-		this.cpfcnpj = cpfcnpj;
-	}
+        public Pessoa build() {
+            return new Pessoa(this);
+        }
+    }
 
-	public String getObservacao() {
-		return observacao;
-	}
+    public Long getCodigo() {
+        return codigo;
+    }
 
-	public void setObservacao(String observacao) {
-		this.observacao = observacao;
-	}
+    public void setCodigo(Long codigo) {
+        this.codigo = codigo;
+    }
 
-	public Date getData_cadastro() {
-		return data_cadastro;
-	}
+    public String getNome() {
+        return nome;
+    }
 
-	public void setData_cadastro(Date data_cadastro) {
-		this.data_cadastro = data_cadastro;
-	}
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
 
-	public Date getData_nascimento() {
-		return data_nascimento;
-	}
+    public String getApelido() {
+        return apelido;
+    }
 
-	public void setData_nascimento(Date data_nascimento) {
-		this.data_nascimento = data_nascimento;
-	}
+    public void setApelido(String apelido) {
+        this.apelido = apelido;
+    }
 
-	public Endereco getEndereco() {
-		return endereco;
-	}
+    public String getCpfcnpj() {
+        return cpfcnpj;
+    }
 
-	public void setEndereco(Endereco endereco) {
-		this.endereco = endereco;
-	}
+    public void setCpfcnpj(String cpfcnpj) {
+        this.cpfcnpj = cpfcnpj;
+    }
 
-	public List<Telefone> getTelefone() {
-		return telefone;
-	}
+    public String getObservacao() {
+        return observacao;
+    }
 
-	public void setTelefone(List<Telefone> telefone) {
-		this.telefone = telefone;
-	}
+    public void setObservacao(String observacao) {
+        this.observacao = observacao;
+    }
 
+    public Date getDataCadastro() {
+        return dataCadastro;
+    }
+
+    public void setDataCadastro(Date dataCadastro) {
+        this.dataCadastro = dataCadastro;
+    }
+
+    public Date getDataNascimento() {
+        return dataNascimento;
+    }
+
+    public void setDataNascimento(Date dataNascimento) {
+        this.dataNascimento = dataNascimento;
+    }
+
+    public Endereco getEndereco() {
+        return endereco;
+    }
+
+    public void setEndereco(Endereco endereco) {
+        this.endereco = endereco;
+    }
+
+    public List<Telefone> getTelefone() {
+        return telefone;
+    }
+
+    public void setTelefone(List<Telefone> telefone) {
+        this.telefone = telefone;
+    }
 }
