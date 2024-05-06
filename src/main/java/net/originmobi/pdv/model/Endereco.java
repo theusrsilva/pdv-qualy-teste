@@ -37,7 +37,7 @@ public class Endereco implements Serializable {
 
 	@Size(max = 150, message = "Tamanho máximo para referência é de 150 caracteres")
 	private String referencia;
-	private Date data_cadastro;
+	private Date dataCadastro;
 
 	@ManyToOne
 	private Cidade cidade;
@@ -46,14 +46,14 @@ public class Endereco implements Serializable {
 		super();
 	}
 
-	public Endereco(String rua, String bairro, String numero, String cep, String referencia, Date data_cadastro,
+	public Endereco(String rua, String bairro, String numero, String cep, String referencia, Date dataCadastro,
 			Cidade cidade) {
 		this.rua = rua;
 		this.bairro = bairro;
 		this.numero = numero;
 		this.cep = cep;
 		this.referencia = referencia;
-		this.data_cadastro = data_cadastro;
+		this.dataCadastro = dataCadastro;
 		this.cidade = cidade;
 	}
 
@@ -105,12 +105,12 @@ public class Endereco implements Serializable {
 		this.referencia = referencia;
 	}
 
-	public Date getData_cadastro() {
-		return data_cadastro;
+	public Date getDataCadastro() {
+		return dataCadastro;
 	}
 
-	public void setData_cadastro(Date data_cadastro) {
-		this.data_cadastro = data_cadastro;
+	public void setDataCadastro(Date dataCadastro) {
+		this.dataCadastro = dataCadastro;
 	}
 
 	public Cidade getCidade() {
