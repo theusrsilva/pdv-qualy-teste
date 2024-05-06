@@ -1,9 +1,11 @@
-package net.originmobi.pdv.model;
+package net.originmobi.pdv;
 import org.junit.jupiter.api.Test;
+
+import net.originmobi.pdv.model.Pessoa;
 
 public class PessoaTest {
 
-    @Test
+    @org.junit.Test
     public void testNome() {
         Pessoa pessoa = new Pessoa.Builder("Lucas", "12345678900").build();
         pessoa.setNome("Omena");
